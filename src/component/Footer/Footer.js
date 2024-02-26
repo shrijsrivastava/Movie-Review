@@ -4,6 +4,7 @@ import { FaFacebookF, FaTwitter, FaInstagram ,FaYoutube,FaMusic } from 'react-ic
 import './Footer.css';
  
 function Footer(){
+  
   return (
     <>
       <footer className='footer'>
